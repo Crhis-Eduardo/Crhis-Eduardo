@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Crhis-Eduardo
+- 👋 Hi, I’m @Crhis-Eduardo, clinical pharmacist in career transition
 - 👀 I’m interested in learn language development in information tecnology
-- 🌱 I’m currently learning JavaScript as a begginer
-- 💞️ I’m looking to collaborate on this community
+- 🌱 I’m currently learning JavaScript offered by DIO and Ifood Potencia Tech 
+- 💞️ I’m looking to collaborate on this community learning and improoving soft and hard skills.
 - 📫 How to reach me ...
 
 <!---
